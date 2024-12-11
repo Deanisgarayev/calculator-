@@ -13,7 +13,7 @@ try:
     calulator()
 except ZeroDivisionError:
     print("you are not allowed divide by zero")
-e
+
 
 
 
